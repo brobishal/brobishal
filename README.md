@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brobishal&label=Profile%20views&color=0e75b6&style=flat" alt="brobishal" /> </p>
 
-- 🔭 I’m currently working on **Restaurant Tracking**
+- 🔭 I’m currently working on **Food Delivery System**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 💬 Ask me about **React**
 
